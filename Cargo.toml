@@ -2,5 +2,9 @@
 name = "stur"
 version = "0.1.0"
 edition = "2021"
+authors = ["Phillip England <phillip.mark.england@gmail.com>"]
+license = "MIT"
+description = "functions for working with strings"
+repository = "https://github.com/phillip-england/stur"
 
 [dependencies]
